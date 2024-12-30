@@ -50,6 +50,12 @@ Scalable Deployment: Deployed on Azure App Service, ensuring the solution scales
 Advanced Feedback Features: Improve the system’s ability to process and use user feedback to further optimize model performance. We plan to integrate a component dedicated to clustering, categorizing and explain hallucinations sources and serve it to a intuitive User interface.
 Enhanced Data Analytics: Expand the analysis capabilities to provide deeper insights into model optimization strategies.
 Scalability Improvements: Increase system capacity for larger-scale AI deployments, ensuring smooth performance under heavy loads.
+
+## Team
+Gibrann Morgado (Mexico)
+Antonio Jesus Garcia (Spain)
+
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
